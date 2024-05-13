@@ -1,4 +1,9 @@
-# RUST - Guess the Number Game
+### RUST - Guess the Number Game
+
+**For running this locally**
+> you need to have Rust + Cargo installed in your system
+- go to root directory of this project
+- and run `cargo run` in terminal
 
 ***
 
